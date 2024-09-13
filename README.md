@@ -1,5 +1,5 @@
 Curso 
-End to End Machine Learning: From idea to implementation
+## *End to End Machine Learning: From idea to implementation*
 
 Comandos de git revisados:
 
@@ -22,7 +22,7 @@ Comandos de git revisados:
  Importante.
  Para inciar en el bash a trabajar en este repositorio
 
-EN EL BASH:
+* EN EL BASH: *
 
  cd Documents
  git clone https://tu-usuario@github.com/tu-usuario/tu-repositorio.git (VER ABAJO)
