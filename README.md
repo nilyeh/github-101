@@ -41,3 +41,11 @@ EN EL BASH:
 
   ¡Atención! 
   Esta búsqueda puede ser lenta y consumir muchos recursos, así que úsala con precaución.
+
+  Guardar los cambios en un "stash" temporal: Puedes usar git stash para guardar tus cambios temporalmente. 
+  Esto permite que cambies de rama sin perder esos cambios, y luego los puedes aplicar más tarde.
+    git stash
+    git checkout main
+  Después de cambiar de rama, si deseas recuperar los cambios guardados, usa:  
+    git stash pop
+
